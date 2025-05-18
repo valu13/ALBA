@@ -1,0 +1,5 @@
+# No incluyas tu entorno virtual ni cachés
+env/
+.venv/
+__pycache__/
+*.pyc
